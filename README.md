@@ -9,6 +9,8 @@ The following [link](https://www.pyimagesearch.com/2018/09/26/install-opencv-4-o
 
 The total percentage of red pixels were used to estimate the total volume of dissolved gas post-reactor relative to the total volume of gas introduced into the reactor.
 
+An example of the colour filtering can be found [here](https://www.youtube.com/watch?v=g9rdKSF19qk&ab_channel=DarrenRiley). 
+
 Citation
 Design and testing of a flow ozonolysis reactor module with on-the-fly ozone degassing.
 
