@@ -12,5 +12,5 @@ The total percentage of red pixels were used to estimate the total volume of dis
 An example of the colour filtering can be found [here](https://www.youtube.com/watch?v=g9rdKSF19qk&ab_channel=DarrenRiley). 
 
 Citation
-Design and testing of a flow ozonolysis reactor module with on-the-fly ozone degassing.
+[Design and testing of a flow ozonolysis reactor module with on-the-fly ozone degassing.](https://pubs.rsc.org/en/content/articlelanding/2022/re/d1re00554e) https://doi.org/10.1039/D1RE00554E
 
